@@ -1,0 +1,12 @@
+[submodule "MIPS-SingleCycle"]
+	path = MIPS-SingleCycle
+	url = https://github.com/hamidkhd/MIPS-SingleCycle
+[submodule "MIPS-MultiCycle"]
+	path = MIPS-MultiCycle
+	url = https://github.com/hamidkhd/MIPS-MultiCycle
+[submodule "MIPS-PipeLine"]
+	path = MIPS-PipeLine
+	url = https://github.com/hamidkhd/MIPS-PipeLine/
+[submodule "Booth-Multiplier-CA"]
+	path = Booth-Multiplier-CA
+	url = https://github.com/hamidkhd/Booth-Multiplier-CA
